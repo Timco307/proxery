@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: proxery
+owner: timco307
+package: .
